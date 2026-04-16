@@ -26,8 +26,8 @@ Este é um sistema de controle de estoque desenvolvido em Python para rodar no t
 ## Como executar
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/KachanChK/peoplechat
-cd peoplechat
+git clone https://github.com/KachanChK/controle-estoque_py
+cd controle-estoque_py
 ```
 ### 2. Crie o ambiente virtual e ative
 #### Windows:
